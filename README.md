@@ -1,5 +1,5 @@
 # shadowsocks-forward
-This is a hand speed competition game.Including chat tools！
+
 
 
 
